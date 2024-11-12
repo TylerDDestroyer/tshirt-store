@@ -1,0 +1,13 @@
+/* src/App.css */
+.nav-item {
+    transition: color 0.3s;
+  }
+  
+  .nav-item:hover {
+    color: #f8c14b; /* Changes color on hover to a contrasting gold */
+  }
+  
+  .active {
+    border-bottom: 2px solid #f8c14b; /* Underline active links */
+  }
+  
